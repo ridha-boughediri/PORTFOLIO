@@ -70,7 +70,7 @@
       <div class="table-cell">
         <div class="container">
           <!--<p class="display-6 color-d">Hello, world!</p>-->
-          <h1 class="intro-title mb-4">I am Ridha BOUGHEDIRI</h1>
+          <h1 class="intro-title mb-4">Je suis Ridha BOUGHEDIRI</h1>
           <p class="intro-subtitle"><span class="text-slider-items">Développeur web et application,Expert SEO & MARKETING </span><strong class="text-slider"></strong></p>
           <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
         </div>
@@ -771,7 +771,7 @@
   </section> -->
   <!--/ Section Blog End /-->
 
-  / Section Contact-Footer Star /
+  <!-- / Section Contact-Footer Star / -->
   <section class="paralax-mf footer-paralax bg-image sect-mt4 route" style="background-image: url(img/overlay-bg.jpg)">
     <div class="overlay-mf"></div>
     <div class="container">
