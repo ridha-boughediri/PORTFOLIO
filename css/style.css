@@ -75,6 +75,13 @@ a:hover {
   line-height: 1.1;
 }
 
+.btn-fill{
+
+  color: #fff;
+    background-color: #212121;
+}
+
+
 .avatar {
   width: 32px;
   height: 32px;
